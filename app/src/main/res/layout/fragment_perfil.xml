@@ -1,0 +1,51 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragmentPerfil"
+    tools:context="mx.fanygtz.mascotasws.fragments.PerfilFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/ivFotoCircular"
+            android:layout_centerHorizontal="true"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/tigreperfil"
+            android:layout_gravity="center"
+            app:civ_border_width="2dp"
+            app:civ_shadow="true"
+            app:civ_border="true"
+            app:civ_shadow_radius="5"
+            app:civ_shadow_color="@color/colorAccent"/>
+
+
+
+
+        <TextView
+            android:id="@+id/tvNombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nombre"
+            android:textSize="@dimen/texto_name"
+            android:textAlignment="center"
+            />
+
+            <android.support.v7.widget.RecyclerView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/rvPerfil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                >
+            </android.support.v7.widget.RecyclerView>
+
+    </LinearLayout>
+
+
+
+</FrameLayout>

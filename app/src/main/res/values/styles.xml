@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MiBotonRaised" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/colorPrimaryLight</item>
+        <item name="android:textColor">@color/PrimaryText</item>
+    </style>
+    <style name="MiEtiqueta" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@color/PrimaryText</item>
+        <item name="android:textSize">@dimen/texto_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="MiTexto" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@color/secondaryText</item>
+        <item name="android:textSize">@dimen/texto_size</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+</resources>

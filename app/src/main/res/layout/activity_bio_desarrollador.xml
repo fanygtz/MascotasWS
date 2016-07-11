@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="mx.fanygtz.mascotasws.BioDesarrollador">
+    <include
+        android:id="@+id/myActionBar"
+        layout="@layout/actionbar"
+        >
+    </include>
+    <TextView
+        android:id="@+id/tvAutor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Autor: Leo"
+        android:gravity="center"
+        style="@style/MiTexto"
+        android:layout_marginTop="@dimen/espacio_texto"/>
+
+    <TextView
+        android:id="@+id/tvUbicacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Michoacan, México"
+        android:gravity="center"
+        style="@style/MiTexto"
+        android:layout_marginTop="@dimen/espacio_texto"/>
+    <TextView
+        android:id="@+id/tvVersion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Versión: Mascotas 1.2"
+        android:gravity="center"
+        style="@style/MiTexto"
+        android:layout_marginTop="@dimen/espacio_texto"/>
+    <TextView
+        android:id="@+id/tvFechabio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fecha : 20/Mayo/2016"
+        android:gravity="center"
+        style="@style/MiTexto"
+        android:layout_marginTop="@dimen/espacio_texto"/>
+
+    <TextView
+        android:id="@+id/tvCurso"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Curso impartido por: Coursera.org"
+        android:gravity="center"
+        style="@style/MiTexto"
+        android:layout_marginTop="@dimen/espacio_texto"/>
+</LinearLayout>

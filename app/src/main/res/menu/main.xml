@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item android:id="@+id/itemFavorito"
+        android:icon="@drawable/star"
+        android:title="@string/favorito"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/itemContacto"
+        android:title="@string/contacto"
+        android:orderInCategory="3"/>
+    <item android:id="@+id/itemAcercade"
+        android:title="@string/acercade"
+        android:orderInCategory="4"/>
+    <item android:id="@+id/configCta"
+        android:title="@string/configCta"
+        android:orderInCategory="100"/>
+
+</menu>

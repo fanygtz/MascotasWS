@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\fany_\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\okio-1.8.0_4a5ee66d279c612a04bd9e03655e3d9ff266ca27.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_1a10fbb2963e6ed32c7d7febb69fc51d71cebd38.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\android-activation-1.5.5_71381ade652f703eef21c5fc8c28bc2a7253f998.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\gson-2.7_5b5372c1b6c9ba36c949b72d294058ebfa8f4be0.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_f279f1b5ada288ecb948710715a5d64821089f00.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_3e82cebb107a22eec71a54ada83a33a1dfcc201d.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\android-mail-1.5.5_0a15bb77973f375622b3fd19f918d876135eef19.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_c124f469d78fdaf484975aa82d0d56eeaa67bd77.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_bc258256784d46a190b045daf107d6c838caa55c.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_3d073ae5b61e3f78f6e361835aee266907523b30.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_ff692431edd385d947315e7f6de0a3a5c9075aba.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_76ad1dec2c4228d3a4c829d4176cf2ed0dc889f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd7e1d2ecfc62618469be4f6ca99e37d76df1f90">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b547bf669e22b1b35b8eef7afb6a045253de9dea.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_c2b9c59ff04e4cd3427fb6ec6d3f71addd1ee757.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_f02645f6f3a4963cb60bac36055b7dae25ec76e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_17fbc6656f29f361ff5d98794f6225239371b67e.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\com.mikhaellopez-circularimageview-3.0.2_f8b1307f13a113d4ecedcde2f366a5deb6412161.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_f051b5964c0daeaac3fb423bfc63b2b39ca8112d.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_7b646f66a24c097b17bfb1282a57647311c0707f.jar" />
+    </item>
+    <item
+        jar="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="46b196b41485061652282a8efdea295435c6f36d">
+        <dex dex="C:\Users\fany_\AndroidStudioProjects\MascotasWS\app\build\intermediates\pre-dexed\debug\instant-run_bffd4fbbbc104bb2b7eab4dd3c42315a642114c7.jar" />
+    </item>
+
+</items>

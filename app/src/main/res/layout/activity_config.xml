@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mx.fanygtz.mascotasws.ConfigActivity">
+    <include
+        android:id="@+id/myActionBar"
+        layout="@layout/actionbar"
+        >
+    </include>
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo"
+        style="@style/MiTexto"
+        android:gravity="center"
+        android:layout_below="@+id/myActionBar"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="@dimen/espacio_texto"
+        />
+
+
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/layoutUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titulo"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="40dp">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/tieUsuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/usuario"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/btnGuardar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnGuardar"
+        android:theme="@style/MiBotonRaised"
+        android:layout_below="@+id/layoutUsuario"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/espacio_texto"
+        android:onClick="generarArchivo"
+        />
+
+
+
+</RelativeLayout>

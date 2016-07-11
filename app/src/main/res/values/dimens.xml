@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="texto_name">28sp</dimen>
+    <dimen name="texto_contador">28sp</dimen>
+    <dimen name="texto_size">28sp</dimen>
+    <dimen name="elevacion_actionbar">4dp</dimen>
+    <dimen name="elevacion_card">2dp</dimen>
+    <dimen name="espacio_texto">30dp</dimen>
+
+
+</resources>
